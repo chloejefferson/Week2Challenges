@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\Week2\Week2Challenges\Week2Challenges\Week2Challenges\obj\Debug\Week2Challenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Week2\Week2Challenges\Week2Challenges\Week2Challenges\bin\Debug\Week2Challenges.exe.config
+C:\ElevenFiftyProjects\Week2\Week2Challenges\Week2Challenges\Week2Challenges\bin\Debug\Week2Challenges.exe
+C:\ElevenFiftyProjects\Week2\Week2Challenges\Week2Challenges\Week2Challenges\bin\Debug\Week2Challenges.pdb
+C:\ElevenFiftyProjects\Week2\Week2Challenges\Week2Challenges\Week2Challenges\obj\Debug\Week2Challenges.exe
+C:\ElevenFiftyProjects\Week2\Week2Challenges\Week2Challenges\Week2Challenges\obj\Debug\Week2Challenges.pdb
